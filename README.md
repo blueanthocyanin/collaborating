@@ -1,6 +1,3 @@
-# collaborating
-
-
 ## It is I...Lisa
 I am Lisa. 35 years of age.
 Currently I'm trying to advance my knowledge in programming. Before that I worked freelance as a interdisciplinary designer and did a short bootcamp for data science. 
