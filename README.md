@@ -8,8 +8,7 @@ In my free time I like to read, play games (analog & digital), listen to music, 
 ## A recipe?...ok, I guess
 ChatGPT presents:
 ### Spaghetti Aglio e Olio (Spaghetti with Garlic and Olive Oil)
-
-#### Ingredients:
+repo
 
 - 400g spaghetti
 - 6 cloves garlic, thinly sliced
@@ -44,6 +43,14 @@ Enjoy your delicious and simple Spaghetti Aglio e Olio!
 ## A word
 Serendipity: The occurrence of events by chance in a happy or beneficial way.
 
+# It is Taras
+I\m 33.
+
+## A recipe of a cake
+Just mix something.
+
+### Repo definition.
+Data storage for collaboration.
 
 
 First test collaboration
